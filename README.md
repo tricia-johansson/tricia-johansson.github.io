@@ -4,12 +4,12 @@
 - 👋 Hi, I’m Tricia Johansson but online I go by the name Trix Joyce in most places.
 - 👀 I’m interested in coding, graphic design, and illustration. I'm especially interested in web development and building web apps and small browser games.
 - 🌱 I’m currently learning JavaScript and PHP but also refreshing my CSS skills.
-- 📫 If you want to contact me, please read more here: (http://trixjoyce.co/contact)
+- 📫 If you want to contact me, please read more here: [http://trixjoyce.co/contact](http://trixjoyce.co/contact)
 - 😄 My pronouns are she/her
 - ⚡ Fun fact: I used to work with coding and graphic design but it was like 10 years ago. Now I'm working on re-learning my skills.
 
-My website/store: (www.trixjoyce.store)
-My blog: (www.trixjoyce.co/blog)
+My website/store: [www.trixjoyce.store](http://www.trixjoyce.store)
+My blog: [www.trixjoyce.co/blog](http://www.trixjoyce.co/blog)
 
 ![GIF](https://trixjoyce.com/GitHub/IMG_1134.GIF)
 
@@ -27,11 +27,11 @@ If you want to find out my other profiles on similar sites I'm on, please visit 
 
 ## My main ongoing projects
 
-- World of Cagiu: (https://github.com/tricia-johansson/World-of-Cagiu)
-- Adventures of Avoranic: (https://github.com/tricia-johansson/Adventures-of-Avoranic)
-- Happiness Ninja: (https://github.com/tricia-johansson/Happiness-Ninja)
+- World of Cagiu: [https://github.com/tricia-johansson/World-of-Cagiu](https://github.com/tricia-johansson/World-of-Cagiu)
+- Adventures of Avoranic: [https://github.com/tricia-johansson/Adventures-of-Avoranic](https://github.com/tricia-johansson/Adventures-of-Avoranic)
+- Happiness Ninja: [https://github.com/tricia-johansson/Happiness-Ninja](https://github.com/tricia-johansson/Happiness-Ninja)
 
 # Other projects
 
-- Trixie and Truls: (https://github.com/tricia-johansson/Trixie-and-Truls)
-- Trix Time: (https://github.com/tricia-johansson/Trix-Time)
+- Trixie and Truls: [https://github.com/tricia-johansson/Trixie-and-Truls](https://github.com/tricia-johansson/Trixie-and-Truls)
+- Trix Time: [https://github.com/tricia-johansson/Trix-Time](https://github.com/tricia-johansson/Trix-Time)
