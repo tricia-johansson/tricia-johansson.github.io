@@ -28,8 +28,8 @@ If you want to find out my other profiles on similar sites I'm on, please visit 
 # ALL my Coding projects
 
 > [!IMPORTANT]
-> I'm still learning how to code and is still pretty basic and has a huge journey ahead of me. Please be aware that these projects are highly experimental in nature!
-> All of them!
+> I'm still learning how to code and still pretty basic and have a huge journey ahead of me. Please be aware that these projects are highly experimental in nature!
+> All of them are also works in progress in various stages! Some may be quite functioning while some are just a skeleton of a prototype...
 
 ## My main ongoing projects
 
