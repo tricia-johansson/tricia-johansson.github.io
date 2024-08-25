@@ -27,11 +27,11 @@ If you want to find out my other profiles on similar sites I'm on, please visit 
 
 ## My main ongoing projects
 
-- World of Cagiu: [https://github.com/tricia-johansson/World-of-Cagiu](https://github.com/tricia-johansson/World-of-Cagiu)
-- Adventures of Avoranic: [https://github.com/tricia-johansson/Adventures-of-Avoranic](https://github.com/tricia-johansson/Adventures-of-Avoranic)
-- Happiness Ninja: [https://github.com/tricia-johansson/Happiness-Ninja](https://github.com/tricia-johansson/Happiness-Ninja)
+- World of Cagiu: [Source view on GitHub](https://github.com/tricia-johansson/World-of-Cagiu) / [Live view in Browser](https://tricia-johansson.github.io/World-of-Cagiu)
+- Adventures of Avoranic: [Source view on GitHub ](https://tricia-johansson.github.io/Adventures-of-Avoranic) / [Live view in Browser](https://tricia-johansson.github.io/Adventures-of-Avoranic)
+- Happiness Ninja: [Source view on GitHub](https://github.com/tricia-johansson/Happiness-Ninja) / [Live view in Browser](https://tricia-johansson.github.io/Happiness-Ninja)
 
 # Other projects
 
-- Trixie and Truls: [https://github.com/tricia-johansson/Trixie-and-Truls](https://github.com/tricia-johansson/Trixie-and-Truls)
-- Trix Time: [https://github.com/tricia-johansson/Trix-Time](https://github.com/tricia-johansson/Trix-Time)
+- Trixie and Truls: [Source view on GitHub](https://github.com/tricia-johansson/Trixie-and-Truls) / [Live view in Browser](https://tricia-johansson.github.io/Trixie-and-Truls)
+- Trix Time: [Source view on GitHub](https://github.com/tricia-johansson/Trix-Time) [Live view in Browser](https://tricia-johansson.github.io/Trix-Time)
