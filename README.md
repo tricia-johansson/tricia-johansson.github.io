@@ -25,13 +25,19 @@ If you want to find out my other profiles on similar sites I'm on, please visit 
 
 ![GIF](https://trixjoyce.com/GitHub/IMG_0698.GIF)
 
+# ALL my Coding projects
+
+> [!IMPORTANT]
+> I'm still learning how to code and is still pretty basic and has a huge journey ahead of me. Please be aware that these projects are highly experimental in nature!
+> All of them!
+
 ## My main ongoing projects
 
 - World of Cagiu: [Source view on GitHub](https://github.com/tricia-johansson/World-of-Cagiu) / [Live view in Browser](https://tricia-johansson.github.io/World-of-Cagiu)
 - Adventures of Avoranic: [Source view on GitHub ](https://tricia-johansson.github.io/Adventures-of-Avoranic) / [Live view in Browser](https://tricia-johansson.github.io/Adventures-of-Avoranic)
 - Happiness Ninja: [Source view on GitHub](https://github.com/tricia-johansson/Happiness-Ninja) / [Live view in Browser](https://tricia-johansson.github.io/Happiness-Ninja)
 
-# Other projects
+## Other projects
 
 - Trixie and Truls: [Source view on GitHub](https://github.com/tricia-johansson/Trixie-and-Truls) / [Live view in Browser](https://tricia-johansson.github.io/Trixie-and-Truls)
-- Trix Time: [Source view on GitHub](https://github.com/tricia-johansson/Trix-Time) [Live view in Browser](https://tricia-johansson.github.io/Trix-Time)
+- Trix Time: [Source view on GitHub](https://github.com/tricia-johansson/Trix-Time) / [Live view in Browser](https://tricia-johansson.github.io/Trix-Time)
