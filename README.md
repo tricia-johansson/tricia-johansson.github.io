@@ -1,5 +1,7 @@
 # Tricia Johansson
 
+![profile pic](https://raw.githubusercontent.com/tricia-johansson/tricia-johansson.github.io/main/312846984_2000130810186418_1401367954791545193_n.jpg)
+
 ## Basic info
 - 👋 Hi, I’m Tricia Johansson but online I go by the name Trix Joyce in most places.
 - 👀 I’m interested in coding, graphic design, and illustration. I'm especially interested in web development and building web apps and small browser games.
