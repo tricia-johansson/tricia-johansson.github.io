@@ -38,7 +38,7 @@ If you want to find out my other profiles on similar sites I'm on, please visit 
 ## My main ongoing projects
 
 - World of Cagiu: [Source view on GitHub](https://github.com/tricia-johansson/World-of-Cagiu) / [Live view in Browser](https://tricia-johansson.github.io/World-of-Cagiu)
-- Adventures of Avoranic: [Source view on GitHub ](https://tricia-johansson.github.io/Adventures-of-Avoranic) / [Live view in Browser](https://tricia-johansson.github.io/Adventures-of-Avoranic)
+- Adventures of Avoranic: [Source view on GitHub ](https://github.com/tricia-johansson/Adventures-of-Avoranic) / [Live view in Browser](https://tricia-johansson.github.io/Adventures-of-Avoranic)
 - Happiness Ninja: [Source view on GitHub](https://github.com/tricia-johansson/Happiness-Ninja) / [Live view in Browser](https://tricia-johansson.github.io/Happiness-Ninja)
 - Lunic Philosophy: [Source view on GitHub](https://github.com/tricia-johansson/Lunic-Philosophy) / [Live view in Browser](https://tricia-johansson.github.io/Lunic-Philosophy)
 
