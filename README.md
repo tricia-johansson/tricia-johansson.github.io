@@ -36,6 +36,7 @@ If you want to find out my other profiles on similar sites I'm on, please visit 
 > All of them are also works in progress in various stages! Some may be quite functioning while some are just a skeleton of a prototype...
 
 ## My main ongoing projects
+*Choose "source view" to read more about the project!*
 
 - World of Cagiu: [Source view on GitHub](https://github.com/tricia-johansson/World-of-Cagiu) / [Live view in Browser](https://tricia-johansson.github.io/World-of-Cagiu)
 - Adventures of Avoranic: [Source view on GitHub ](https://github.com/tricia-johansson/Adventures-of-Avoranic) / [Live view in Browser](https://tricia-johansson.github.io/Adventures-of-Avoranic)
@@ -43,6 +44,7 @@ If you want to find out my other profiles on similar sites I'm on, please visit 
 - Lunic Philosophy: [Source view on GitHub](https://github.com/tricia-johansson/Lunic-Philosophy) / [Live view in Browser](https://tricia-johansson.github.io/Lunic-Philosophy)
 
 ## Other projects
+*Choose "source view" to read more about the project!*
 
 - Trixie and Truls: [Source view on GitHub](https://github.com/tricia-johansson/Trixie-and-Truls) / [Live view in Browser](https://tricia-johansson.github.io/Trixie-and-Truls)
 - Trix Time: [Source view on GitHub](https://github.com/tricia-johansson/Trix-Time) / [Live view in Browser](https://tricia-johansson.github.io/Trix-Time)
