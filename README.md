@@ -49,3 +49,4 @@ If you want to find out my other profiles on similar sites I'm on, please visit 
 - Trixie and Truls: [Source view on GitHub](https://github.com/tricia-johansson/Trixie-and-Truls) / [Live view in Browser](https://tricia-johansson.github.io/Trixie-and-Truls)
 - Trix Time: [Source view on GitHub](https://github.com/tricia-johansson/Trix-Time) / [Live view in Browser](https://tricia-johansson.github.io/Trix-Time)
 - DissociaTRIX: [Source view on GithHub](https://github.com/tricia-johansson/DissociaTRIX)
+- Trix Adventures Blog: [Live view in Browser](https://tricia-johansson.github.io/Trix-Adventures/)
