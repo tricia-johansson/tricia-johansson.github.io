@@ -15,7 +15,7 @@
 My website/store: [www.trixjoyce.store](http://www.trixjoyce.store)
 My blog: [www.trixjoyce.co/blog](http://www.trixjoyce.co/blog)
 
-[![GIF](https://trixjoyce.com/GitHub/IMG_1134.GIF)](https://raw.githubusercontent.com/tricia-johansson/tricia-johansson/main/IMG_3856.GIF)
+[![GIF](https://raw.githubusercontent.com/tricia-johansson/tricia-johansson/main/IMG_3856.GIF)
 
 # Why I'm here & about me
 I'm mostly here to test drive my coding projects since I'm (re)-learning how to code after almost 10 years of... not coding. I think the best way to learn is to just do it, at least when it comes to coding and such skills.
@@ -27,7 +27,7 @@ One can not have too many interests 😄
 
 If you want to find out my other profiles on similar sites I'm on, please visit this link: www.trixjoyce.store/links, or if it code/developer-specific visit the page www.trixjoyce.store/apps
 
-![GIF](https://trixjoyce.com/GitHub/IMG_0698.GIF)
+[![GIF](https://raw.githubusercontent.com/tricia-johansson/tricia-johansson/main/IMG_0698.GIF)
 
 # ALL my Coding projects
 
