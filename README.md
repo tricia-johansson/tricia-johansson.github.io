@@ -15,7 +15,7 @@
 My website/store: [www.trixjoyce.store](http://www.trixjoyce.store)
 My blog: [www.trixjoyce.co/blog](http://www.trixjoyce.co/blog)
 
-![GIF](https://trixjoyce.com/GitHub/IMG_1134.GIF)
+[![GIF](https://trixjoyce.com/GitHub/IMG_1134.GIF)](https://raw.githubusercontent.com/tricia-johansson/tricia-johansson/main/IMG_3856.GIF)
 
 # Why I'm here & about me
 I'm mostly here to test drive my coding projects since I'm (re)-learning how to code after almost 10 years of... not coding. I think the best way to learn is to just do it, at least when it comes to coding and such skills.
